@@ -6,4 +6,4 @@ The project is a simple multi-module Maven project. To build the whole project, 
 
 Test Build Trigger
 
-OMAR MODIFICATION
+OMAR MODIFICATION v2
